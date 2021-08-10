@@ -1,0 +1,1 @@
+{{ $asd->where('patterndetail_id', $patterndetail_id)->sum('sayi') }}
